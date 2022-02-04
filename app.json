@@ -1,11 +1,11 @@
 {
-    "name": "✬Sew Queen✬",
+    "name": "✬PRINCESS NIMANSA ✬",
     "description": "World Best Whatsapp Bot",
     "logo": "https://i.ibb.co/cQQ7RkC/main.jpg",
-    "keywords": ["sew", "sewqueen"],
+    "keywords": ["princess", "princessnimansa"],
     "stack": "container",
     "env": {
-        "_SEW_QUEEN_SESSION": {
+        "_PRINCESS_NIMANSA_SESSION": {
             "description": "Scan the QR code and enter the code obtained. QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
             "required": true
         },
@@ -37,7 +37,7 @@
         "MENU_HEADER": {
             "description": "ITS CHANGE YOUR CMD LIST HEADER",
             "required": true,
-            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *SEW QUEEN WHATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS SEW QUEEN CMD MENU"
+            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *PRINCESS NIMANSA WHATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS PRINCESS NIMANSA CMD MENU"
         },
         "GROUP_MANAGE": {
             "description": "If you want the admin in the group to be able to use the admin command too, enter true. සමූහය තුල සිටින ඇඩ්මින් හටද ඇඩ්මින් විදාන භාවිතා කිරීමට හැකි සේ සැකසීම අවශ්‍යයි නම් true ලෙස ඇතුලත් කරන්න",
@@ -57,7 +57,7 @@
         "SPAM_CMD": {
             "description": "Changeble Spam CMD... ස්පෑම් සදහා ඌ විදානය ලබා දෙන්න",
             "required": true,
-            "value": "hunt"
+            "value": "mhunt"
         },
         "BAD_KICK": {
             "description": "BAD WORD &  GROUP LINK KICKING SYSTEM.. අසබ්‍ය වචන හා ගෲප් ලින්ක් දමන්නන් ඉවත් කිරීමේ පද්දතිය",
@@ -88,20 +88,16 @@
             "required": true,
             "value": "2290891d3a7b4fdfc2abffceb5a3bc92"
          },
-          "ZZ_PASSWORD": {
-            "description": "බොට්ව සෑදීම සදහා පාස්වර්ඩ් එකක් අවශ්‍ය අතර වීඩියෝව නරඹා එය ලබා ගන්න.password required.. watch the video ==> https://youtu.be/AKU7YVXxMbM",
-            "required": true
-         },
         "OWNER_SHIP": {
             "description": "බොට් අයිතිකරුගේ නාමය ඇතුලත් කරන්න ==> Input The Owner Name",
             "required": false,
-            "value": "RAVINDU MANOJ"
+            "value": "DIWAN KAWISHKA"
         },
         
         "YOUR_BOT_NAME": {
             "description": "බොට්ගේ නාමය ඇතුලත් කරන්න ==> Input The Bot Name",
             "required": false,
-            "value": "✬ MS SEW ✬"
+            "value": "✬ PRINCESS NIMANSA ✬"
         },
         "NO_LOG": {
             "description": "Set true if you don't want to see error log.",
